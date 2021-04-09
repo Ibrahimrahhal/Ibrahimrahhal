@@ -1,6 +1,6 @@
 <h1 align="center">Hi Beautiful 👋, I'm Ibrahim Rahhal</h1>
 <h3 align="center">Passionate Spaghetti Master</h3>
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=tciyuwjpcgy4jhf&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=tciyuwjpcgy4jhf&cover_image=true&theme=default)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tciyuwjpcgy4jhf&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimrahhal&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimrahhal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimrahhal" alt="ibrahimrahhal" /></a> </p>
