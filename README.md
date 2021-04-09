@@ -1,6 +1,8 @@
 <h1 align="center">Hi Beautiful 👋, I'm Ibrahim Rahhal</h1>
 <h3 align="center">Passionate Spaghetti Master</h3>
-
+<h5 align="center">My music taste is probably better than my coding skills</h5>
+<p align="center"> <a href="https://github.com/ibrahimrahhal"><img src="https://spotify-github-profile-ibrahimrahhal.vercel.app/api/view?uid=tciyuwjpcgy4jhf&amp;cover_image=true&amp;theme=default" alt="spotify-github-profile"></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimrahhal&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimrahhal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimrahhal" alt="ibrahimrahhal" /></a> </p>
