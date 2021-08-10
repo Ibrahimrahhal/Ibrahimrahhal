@@ -11,10 +11,9 @@
 <p align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=ibrahimrahhal" alt="ibrahimrahhal" />
 </p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimrahhal&show_icons=true&locale=en" alt="ibrahimrahhal" />
+<p align="center">
 	<br/>
-	<br/>
-	<br/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimrahhal&" alt="ibrahimrahhal" /> </p>
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
 	<a href="https://twitter.com/ibrahimrahhal18" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ibrahimrahhal18" height="30" width="40" /> </a>
