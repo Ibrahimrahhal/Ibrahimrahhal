@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Rahhal</h1>
-<h3 align="center">Javascript Hashira</h3>
-
-
-<h5 align="center">My music taste is probably better than my coding skills <small>(They both suck)</small></h5>
+<h5 align="center">And My music taste is probably better than my coding skills <small>(They both suck)</small></h5>
 <p align="center">
 	<a href="https://github.com/ibrahimrahhal"> <img src="https://spotify-github-profile-ibrahimrahhal.vercel.app/api/view?uid=ejdwybn8cez6dct46iyl14ngc&amp;cover_image=true&amp;theme=default" alt="spotify-github-profile"> </a>
 </p>
